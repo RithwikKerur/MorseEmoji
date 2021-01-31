@@ -1,3 +1,7 @@
+//Rushi Jetalpuria
+//Lawrence Lee
+// Rithwik Kerur
+// Wesley Luong
 import 'dart:math';
 import 'package:morse/morse.dart';
 
